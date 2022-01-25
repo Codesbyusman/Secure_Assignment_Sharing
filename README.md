@@ -6,3 +6,9 @@ Secure Assignment Sharing (SAS) where you can share your assignments securely to
 ***[read the problem](problem.pdf)***
 
 ***[read the solution documentation](Report.pdf)***
+
+the [main.cpp]() contains the main code linked by header files.
+
+The given openABE library was not working. Thus another library 
+for encryption was done, named as “easy-encryption”, the link of 
+GitHub ---- [Easy Encryption](https://github.com/philipperemy/easy-encryption)
