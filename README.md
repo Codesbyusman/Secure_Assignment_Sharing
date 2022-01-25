@@ -9,6 +9,4 @@ Secure Assignment Sharing (SAS) where you can share your assignments securely to
 
 the [main.cpp]() contains the main code linked by header files.
 
-The given openABE library was not working. Thus another library 
-for encryption was done, named as “easy-encryption”, the link of 
-GitHub ---- [Easy Encryption](https://github.com/philipperemy/easy-encryption)
+The library for encryption used is , named as “easy-encryption”, the link of GitHub ---- [Easy Encryption](https://github.com/philipperemy/easy-encryption)
